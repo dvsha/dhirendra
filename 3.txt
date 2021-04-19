@@ -1,1 +1,1 @@
-contents of 3.txt
+abc
