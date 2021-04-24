@@ -1,2 +1,5 @@
 Line 1 added by test\master
 Line 2 added by test\master
+Line 3 added by test\master
+Line 4 added by test\master
+
