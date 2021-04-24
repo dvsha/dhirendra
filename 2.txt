@@ -1,4 +1,5 @@
-Text file 2 latest updated by test
+Line 1 added by test\master
+
 
 
 

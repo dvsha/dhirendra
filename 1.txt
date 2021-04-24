@@ -1,1 +1,1 @@
-Text file 1 latest modified by test2
+Line 1 added by test\master
